@@ -19,7 +19,7 @@ yesBtn.addEventListener("click", () => {
 
   // Thực hiện chuyển hướng đến đường dẫn Facebook
   newBtn.addEventListener("click", () => {
-    window.location.href = "https://m.me/100034463630726?hash=AbZV1M1QtdP3Py1w&source=qr";
+    window.location.href = "https://m.me/kubin.anh.520?mibextid=ZbWKwL";
   });''
 });
 
